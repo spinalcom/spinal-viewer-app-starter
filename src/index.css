@@ -1,0 +1,12 @@
+html {
+  --mdc-theme-primary: #14202c;
+  --mdc-theme-secondary: #14202c;
+  --mdc-theme-surface: #edf0f2;
+  --mdc-theme-background: #ffffff;
+
+  /* 
+  --mdc-theme-on-primary
+--mdc-theme-on-secondary
+--mdc-theme-on-surface
+ */
+}
